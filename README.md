@@ -1,4 +1,4 @@
-### Oii, sou a Natacha Angheben👋
+### Oii, sou a Natacha Angheben 👋
 
 - 🔭 Estudante de computação
 - 🌱 Estudando Javascript
