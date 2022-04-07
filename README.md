@@ -1,7 +1,6 @@
 ### Oii, sou a Natacha Angheben 👋
 
 - 🔭 Estudante de computação
-- 🌱 Estudando Javascript
 
 <div align="center">
   <a href="https://github.com/tachax">
