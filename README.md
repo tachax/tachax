@@ -1,7 +1,7 @@
-### Oii, sou a Natacha Angheben 👋
+### Hii, I am Natacha Angheben 👋
 
-- 🔭 Estudante de computação
- <!--
+- 🔭 Computer Science Student
+
 <div align="center">
   <a href="https://github.com/tachax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tachax&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,6 +19,5 @@
  <div>
    <a href="https://www.linkedin.com/in/natachapangheben?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaTeJo%2BAmTwSIoEiL%2FqhJzQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
--->
 
 ![Snake animation](https://github.com/tachax/tachax/blob/output/github-contribution-grid-snake.svg)
