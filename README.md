@@ -10,10 +10,12 @@
 </div>
 --> 
 
+<!--
 <div>
   <img  height="175em"  width="420em" align="center" src="https://github-readme-stats.vercel.app/api?username=tachax&show_icons=true&theme=dracula"/>  
   <img  height="168em"  width="350em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tachax&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+--> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tacha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
