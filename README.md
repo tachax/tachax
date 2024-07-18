@@ -5,20 +5,12 @@
 - 💼 Software Engineer Intern, Poatek (a TELUS Digital Experience company) - Summer 2024
 - ⌨️ Tech Lead, Google Developer Student Club at USF - 2023-2024
 
-<!--
-<div align="center">
-  <a href="https://github.com/tachax">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tachax&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tachax&layout=compact&langs_count=7&theme=dracula"/>
-</div>
---> 
-
-<!--
 <div>
-  <img  height="175em"  width="420em" align="center" src="https://github-readme-stats.vercel.app/api?username=tachax&show_icons=true&theme=dracula"/>  
-  <img  height="168em"  width="350em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tachax&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<!--
 --> 
+  <img  height="175em"  width="420em" align="center" src="https://github-readme-stats-virid-three-89.vercel.app/api?username=tachax&show_icons=true&theme=catppuccin_latte&rank_icon=github"/>  
+  <img  height="175em"  width="370em" align="center" src="https://github-readme-stats-virid-three-89.vercel.app/api/top-langs/?username=tachax&layout=compact&langs_count=6&theme=catppuccin_latte"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tacha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
