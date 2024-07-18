@@ -6,12 +6,9 @@
 - ⌨️ Tech Lead, Google Developer Student Club at USF - 2023-2024
 
 ##
-<div>
-<!--
---> 
-  <img  height="175em"  width="420em" align="center" src="https://github-readme-stats-virid-three-89.vercel.app/api?username=tachax&show_icons=true&theme=catppuccin_latte&rank_icon=github"/>  
-  
-  <img  height="175em"  width="370em" align="center" src="https://github-readme-stats-virid-three-89.vercel.app/api/top-langs/?username=tachax&layout=compact&langs_count=7&theme=catppuccin_latte"/>
+<div align="center">
+  <img height="175em" width="370em" src="https://github-readme-stats-virid-three-89.vercel.app/api?username=tachax&show_icons=true&theme=catppuccin_latte&rank_icon=github"/>
+  <img height="175em" width="350em" src="https://github-readme-stats-virid-three-89.vercel.app/api/top-langs/?username=tachax&layout=compact&langs_count=7&theme=catppuccin_latte"/>
 </div>
 
 ##
