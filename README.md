@@ -5,6 +5,7 @@
 - 💼 Software Engineer Intern, Poatek (a TELUS Digital Experience company) - Summer 2024
 - ⌨️ Tech Lead, Google Developer Student Club at USF - 2023-2024
 
+##
 <div>
 <!--
 --> 
@@ -13,8 +14,11 @@
   <img  height="175em"  width="370em" align="center" src="https://github-readme-stats-virid-three-89.vercel.app/api/top-langs/?username=tachax&layout=compact&langs_count=7&theme=catppuccin_latte"/>
 </div>
 
-#### Languages and Tools:
+##
+
+#### Languages and Tools I am studying:
 <div style="display: inline_block"><br>
+  <img align="center" alt="Tacha-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Tacha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tacha-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Tacha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -29,7 +33,7 @@
 #### Contact Me:
  <div>
    <a href="https://www.linkedin.com/in/natachapangheben" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:npangheben@outlook.com"><img src="https://img.shields.io/badge/-Outlook_Mail-35BDB2?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
+    <a href = "mailto:npangheben@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
     <a href = "https://portifolionat.netlify.app/media/Natacha-resume.pdf"><img src="https://img.shields.io/badge/-Resume-DD4B39?style=for-the-badge&logo=readdotcv&logoColor=white" target="_blank"></a>
  </div>
 
