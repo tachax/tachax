@@ -31,7 +31,7 @@
  <div>
    <a href="https://www.linkedin.com/in/natachapangheben" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:npangheben@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-    <a href = "https://portifolionat.netlify.app/media/Natacha-resume.pdf"><img src="https://img.shields.io/badge/-Resume-DD4B39?style=for-the-badge&logo=readdotcv&logoColor=white" target="_blank"></a>
+<!--     <a href = "https://portifolionat.netlify.app/media/Natacha-resume.pdf"><img src="https://img.shields.io/badge/-Resume-DD4B39?style=for-the-badge&logo=readdotcv&logoColor=white" target="_blank"></a> -->
  </div>
 
 <!--
