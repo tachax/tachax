@@ -1,8 +1,9 @@
 ### Hii, I am Natacha Angheben 👋
 
 - 🔭 Computer Science Student, University of South Florida
-- 💻 Tech Development Analyst, Brazilian Student Association - present
+- 💻 Technology Specialist, BRASA Connect - present
 - 💼 Software Engineer Intern, Poatek (a TELUS Digital Experience company) - Summer 2024
+- 💻 Tech Development Analyst, Brazilian Student Association - May 2023 - August 2024
 - ⌨️ Tech Lead, Google Developer Student Club at USF - 2023-2024
 
 ##
