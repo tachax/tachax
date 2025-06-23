@@ -1,9 +1,9 @@
 ### Hii, I am Natacha Angheben 👋
 
 - 🔭 Computer Science Student, University of South Florida
-- 💼 Software Engineer Intern, WillowTree (a TELUS Digital Experience company) - Summer 2025
+- 💼 Software Engineer Intern, WillowTree (a TELUS Digital company) - Summer 2025
 - 💻 Technology Specialist, BRASA Connect - August 2025 - May 2025
-- 💼 Software Engineer Intern, Poatek (a TELUS Digital Experience company) - Summer 2024
+- 💼 Software Engineer Intern, TELUS Digital Brazil - Summer 2024
 - 💻 Tech Development Analyst, Brazilian Student Association - May 2023 - August 2024
 - ⌨️ Tech Lead, Google Developer Student Club at USF - 2023-2024
 
