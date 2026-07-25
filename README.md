@@ -34,9 +34,7 @@
  <div>
    <a href="https://www.linkedin.com/in/natachapangheben" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:npangheben@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<!--     <a href = "https://portifolionat.netlify.app/media/Natacha-resume.pdf"><img src="https://img.shields.io/badge/-Resume-DD4B39?style=for-the-badge&logo=readdotcv&logoColor=white" target="_blank"></a> -->
+    <a href = "https://portifolionat.netlify.app/resume.pdf"><img src="https://img.shields.io/badge/-Resume-DD4B39?style=for-the-badge&logo=readdotcv&logoColor=white" target="_blank"></a>
  </div>
 
-<!--
 ![Snake animation](https://github.com/tachax/tachax/blob/output/github-contribution-grid-snake.svg)
--->
