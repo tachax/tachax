@@ -1,7 +1,7 @@
 ### Hii, I am Natacha Angheben 👋
 
 - 🔭 MSc Computer Science Student, University of South Florida
-- 💻 Research Assistant, CASH Lab at USF - August 2026 - Present
+- 💻 Research Assistant, University of South Florida - August 2026 - Present
 - 💼 Software Engineer Intern, TELUS Digital company - Summer 2025
 - 💻 Technology Specialist, BRASA Connect - August 2025 - May 2025
 - 💼 Software Engineer Intern, TELUS Digital Brazil - Summer 2024
